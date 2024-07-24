@@ -1,10 +1,10 @@
-<img align=center src="https://ov14-engine.flamingtext.com/netfu/tmp28007/coollogo_com-12506210.png">
+<img align=center src="https://ov12-engine.flamingtext.com/netfu/tmp28009/coollogo_com-308251150.png">
 
 [![](https://visitcount.itsvg.in/api?id=K_aka_Shi&icon=6&color=3)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
-👋 I'm Nidal Lyassami - I'm an apprentice software developer at Eyyub Sultan Group with a passion for technology and continuous learning.
+👋 I'm an apprentice software developer at Eyyub Sultan Group with a passion for technology and continuous learning.
 
 🌎 Location : France.
 
